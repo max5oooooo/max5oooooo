@@ -1,7 +1,7 @@
 ![Header](./github-header-image-3.png)
 
 
-After working for more than 10 years in the restaurant industry,I decided to reinvent myself by taking a course to become a Full Stack developer.I am very creative,passionate and curious.I hope to find a company in which grow and express fully my potential.
+After working for more than 10 years in the restaurant industry, I decided to reinvent myself by taking a course to become a Full Stack developer. I am very creative, passionate and curious. I hope to find a company in which grow and express fully my potential.
 
 Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/NODEJS/LARAVEL.
 
