@@ -6,7 +6,7 @@ After working for more than 10 years in the restaurant industry,I decided to rei
 Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/NODEJS/LARAVEL.
 
 - 🌱 I’m currently learning At Aulab. 
-- 📫 How to reach me: ppastafigliamattia@gmail.com
+- 📫 How to reach me: pastafigliamattia@gmail.com
 
 
 
