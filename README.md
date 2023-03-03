@@ -1,3 +1,6 @@
+![Header](./github-header-image-3.png)
+
+
 After having worked for more than 10 years in the restaurant industry, I decided to reinvent myself by taking a course to become a Front-End developer. I am a very creative, passionate and curious person. I hope to find a company in which to grow and express my full potential.
 
 Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/NODEJS/LARAVEL.
