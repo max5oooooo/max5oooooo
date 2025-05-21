@@ -3,9 +3,8 @@
 
 After working for more than 10 years in the restaurant industry, I decided to reinvent myself by taking a course to become a Full Stack developer. I am very creative, passionate and curious. I hope to find a company in which grow and express fully my potential.
 
-Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/NODEJS/LARAVEL.
+Skills: HTML/CSS/JAVASCRIPT/BOOTSTRAP/TAILWINDCSS/NODEJS/LARAVEL/REACT/SHOPIFY/WORDPRESS/ELEMENTOR.
 
-- 🌱 I’m currently learning At Aulab. 
 - 📫 How to reach me: pastafigliamattia@gmail.com
 
 
